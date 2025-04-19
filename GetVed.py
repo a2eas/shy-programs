@@ -1,5 +1,5 @@
 import cv2
-from detect_face import detect_faces
+from detectface import detect_faces
 import os
 from Closetabs import close_tabs
 
