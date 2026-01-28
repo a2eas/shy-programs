@@ -58,7 +58,7 @@ When faces are detected, the current active windows will minimize automaticall
 
 
 
-Notes
+## Notes
 
 This is an experimental and educational project.
 
@@ -70,7 +70,7 @@ It is also a mess of a code
 
 
 
-Learning Goals
+## Learning Goals
 
 Practice OpenCV face detection
 
@@ -80,6 +80,6 @@ Experiment with real-time camera feeds
 
 Understand the challenges of simple AI integration for personal projects
 
-License
+## License
 
 This project is for learning and experimentation purposes. You are free to explore and modify the code.
